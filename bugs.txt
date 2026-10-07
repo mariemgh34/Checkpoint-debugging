@@ -1,0 +1,11 @@
+*Problem 1
+
+The UserProfile component needs access to the entire user object, so we pass user as a prop:
+
+<UserProfile user={user} />
+
+
+*Problem 2 
+setCount(count + 1);
+
+updates the state by increasing the current count by 1.
